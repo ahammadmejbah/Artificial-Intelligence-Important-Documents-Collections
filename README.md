@@ -1,4 +1,4 @@
-
+# <p align="center"> Data Science and Machine Learning Resources </p>
 ### R 
 - [R Cookbook](http://www.cookbook-r.com/)
 - [R Blogdown](https://bookdown.org/yihui/blogdown/)
