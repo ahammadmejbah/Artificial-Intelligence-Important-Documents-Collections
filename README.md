@@ -35,7 +35,7 @@
 17. <b><h3><code><a href="https://www.selenium.dev/">Selenium</a></code></h3></b>
  The Selenium project is an open-source umbrella project that contains a variety of web browser automation-related tools and technologies. A test scripting language is not required to be learned in order to use the replay tool that Selenium offers for functional test creation (Selenium IDE). In addition to this, it offers a test domain-specific language known as Selenese that can be used to create tests in a variety of well-known programming languages. These languages include JavaScript (Node.js), C#, Groovy, Java, Perl, PHP, Python, Ruby, and Scala.
 
-
+**Credit:** <a href="https://github.com/ahammadmejbah"> Mejbah Ahammad </a>
 
 # <p align="center"> Different Learning Resources for Data Scientist</p>
 
