@@ -1,4 +1,4 @@
-<b><h2><code>Important Data Science Libraries That Everyone Ought to Be Aware Of</code></h2></b>
+<b><h3><code>Important Data Science Libraries That Everyone Ought to Be Aware Of</code></h3></b>
 
 
 1. <b><h3><code><a href="https://pandas.pydata.org/">Pandas:</a></code></h3></b>Data processing and analysis may be performed with the help of the Python programming language using the Pandas software package. In particular, it provides the data structures and procedures necessary for the manipulation of numerical tables and time series. It is open-source software distributed with a three-clause BSD license. The phrase "panel," which is used in econometrics, is the origin of the word "panel," which refers to data sets that comprise observations across several time periods for the same persons. Its name is a pun on the term "Python data analysis," which is also included in the name.
