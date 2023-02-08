@@ -617,21 +617,6 @@ Yury Kashnitsky
 
 - Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
-# Material in Russian
-
-- [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - matplotlib for scientific graphics. 3 parts, 13 chapters. By Pavel Shabanov
-
-- [ml-course-hse](https://github.com/esokolov/ml-course-hse) - machine learning course at the Computer Sciences Department, High Schoool of Economy. Multiple years, videos
-
-- [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
-
-- [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
-
-- [Ordinary Differential Equations](https://ode.mathbook.info/) - Обыкновенные дифференциальные уравнения, Интерактивный учебник, Илья Щуров (НИУ ВШЭ)
-
-- [Calculus](https://calculus.mathbook.info) - Математический анализ, Записки лекций, Илья Щуров (НИУ ВШЭ). [Tweet](https://twitter.com/ilyaschurov/status/1432811362904944644?s=20)
-
-- [mathprofi.ru](http://mathprofi.ru) - Высшая математика – просто и доступно. [Mirror](http://mathprofi.net)
 
 
 **Credit** <a href=""> Mikhail Dozmorov </a>
