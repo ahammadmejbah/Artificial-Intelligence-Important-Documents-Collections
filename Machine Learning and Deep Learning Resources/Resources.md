@@ -5,7 +5,7 @@
 
 # Cheatsheets
 
-- [Artificial-intelligence](https://github.com/Niraj-Lunavat/Artificial-intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
+- [Artificial-intelligence](https://github.com/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools
 
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc), [Source](https://twitter.com/iamtrask/status/1318464483883470849?s=20)
 
